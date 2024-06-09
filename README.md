@@ -28,6 +28,10 @@ To set up the development environment for this project, follow these steps:
 2. Set up Hunter.io API authentication with your Google Account.
 3. Follow the steps outlined in the Hunter.io API documentation: [API Documentation](https://hunter.io/api-documentation)
 
+## Hunter.io Documentation
+- [API Errors](https://hunter.io/api-documentation#errors): HTTP response codes to indicate the success or failure of an API request.
+- [Email Finder](https://hunter.io/api-documentation#email-finder): to find the most likely email address from a domain name, a first name and a last name.
+
 ## Dependencies
 - [Bulma CSS](https://bulma.io): Used for styling the sidebar interface.
 - [Font Awesome](https://fontawesome.com): Provides icons for the user interface.
