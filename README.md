@@ -36,4 +36,6 @@ To set up the development environment for this project, follow these steps:
 Contributions are welcome! Please feel free to submit issues or pull requests.
 
 ## Screenshots
+![API Success](https://github.com/abdemeh/Hunter.io/blob/main/screenshots/api%20success.png?raw=true)
+![API Error](https://github.com/abdemeh/Hunter.io/blob/main/screenshots/api%20error.png?raw=true)
 
